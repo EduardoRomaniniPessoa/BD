@@ -1,4 +1,6 @@
 # BD
 repositorio ligado exclusivamente à projetos de banco de dados
+<br>
 projetos
-1- diagramas da livraria
+<br>
+1- diagrama da livraria
